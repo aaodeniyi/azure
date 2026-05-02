@@ -1,2 +1,2 @@
-# azure
+# AZURE
 My 12-week Azure Administrator &amp; Security Engineer training journey.
